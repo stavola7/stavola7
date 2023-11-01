@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🌱 Atualmente estudando Analise e Desenvolvimento de Sistemas
+- 🌱 Atualmente Estudante de Analise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: stavolaa7@gmail.com
 
 <div>
