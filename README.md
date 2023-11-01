@@ -4,7 +4,7 @@
 - 📫 Contate-me no email: stavolaa7@gmail.com
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavola7&hide_progress=true">
 </div>
 
 ##
